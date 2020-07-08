@@ -1,5 +1,7 @@
 {
   "name": "Fixes",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
